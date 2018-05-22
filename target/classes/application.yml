@@ -1,0 +1,5 @@
+spring:
+ mvc:
+  view:
+   prefix: /WEB-INF/views/ # Read From Web Resources Dir
+   suffix: .jsp

@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="springboot">
+    <output-path>$PROJECT_DIR$/out/artifacts/springboot</output-path>
+    <root id="archive" name="springboot.war" />
+  </artifact>
+</component>

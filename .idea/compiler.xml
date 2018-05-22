@@ -6,12 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="nettyclient" />
+        <module name="commander" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="commander" target="1.8" />
-      <module name="nettyclient" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
